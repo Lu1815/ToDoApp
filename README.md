@@ -1,6 +1,6 @@
 # Backend and Frontend
 
-When creating the repo for the backend and frontend I realized about an error in the remote repo, I could not enter to the code in the folders backend and frotend since those folders were already local initiated repos, so to fix momentally this, these are the remote repos for the backend and frontend:
+When creating the repo for the backend and frontend I realized about an error in the remote repo, I could not enter to the code in the folders backend and frotend since those folders were already local initiated repos, so to fix momentally this, these are the remote repos for the backend and frontend, sorry :( :
 
 - Backend: https://github.com/Lu1815/todoBackend
 - Frontend: https://github.com/Lu1815/todoFrontend
