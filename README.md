@@ -14,7 +14,9 @@ Node.js  | 14.17.1
 Prisma Client  | 3.12
 React | 18.0.0
 React redux | 8.0.0
-React redux | 8.0.0
+@reduxjs/toolkit | ^1.8.1
+Axios | 0.26.1
+Reacstrap | 9.0.2
 Heroku Postgres | N/A
 
 ## The app deployment
