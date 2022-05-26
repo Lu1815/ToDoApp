@@ -1,0 +1,6 @@
+[submodule "toDoBackend"]
+	path = toDoBackend
+	url = https://github.com/Lu1815/toDoBackend.git
+[submodule "toDoFrontEnd"]
+	path = toDoFrontEnd
+	url = https://github.com/Lu1815/toDoFrontend.git
